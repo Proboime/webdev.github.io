@@ -1,0 +1,195 @@
+.body1 {
+    background: white; /* Change background to white */
+    color: #0072ff; /* Change text color to match button */
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center align items */
+}
+
+.info{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 35px;
+    margin: 19px;
+}
+.subtext{
+    display: flex;
+    font-weight: bold;
+    color: black;
+    font-family: monospace;
+    width: 1200px;
+    justify-content: space-around;
+}
+.sub1{
+    background-color: #a0d8ef;
+    border: 1px solid;
+    padding: 8px 60px;
+}
+
+.sub2{
+    background-color: #a0d8ef;
+    border: 1px solid;
+    padding: 8px 60px;
+}
+.sub3{
+    background-color: #a0d8ef;
+    border: 1px solid;
+    padding: 8px 60px;
+}
+.sub4{
+    background-color: #a0d8ef;
+    border: 1px solid;
+    padding: 8px 60px;
+}
+.photo {
+    display: flex;
+    white-space: nowrap;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    white-space: nowrap;
+    margin: 0 500px 0 0; 
+}
+
+.kewl {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(0, 0, 0);
+    padding: 0;
+    margin: 0;
+}
+
+.otin {
+    display: flex;
+    color: black;
+    margin-top: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background: linear-gradient(135deg, #a0d8ef, #ffb3b3); /* Lighter gradient */
+    border-radius: 20px; /* Curved border */
+    padding: 40px 110px 30px 110px;
+    box-shadow: 0 8px 40px rgba(0, 0, 0, 0.2); /* Optional shadow for depth */
+}
+
+.container2 {
+    text-align: center; /* Center text in the new container */
+    margin-top: 20px; /* Add some space above the new container */
+}
+.logoname{
+    text-decoration: none;
+    color: black;
+}
+.logoandname {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+.links {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.login{
+    color: black;
+    text-decoration: none;
+}
+.sircarl {
+    margin-left: 50px;
+    color: black;
+    text-decoration: none;
+}
+
+.freebobux {
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    background-color: white; /* Blue */
+    padding: 8px 0;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 19px;
+}
+
+.menu {
+    width: 1250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.button {
+    display: flex;
+    margin-right: auto;
+    background-color: #fff;
+    color: black; 
+    padding: 8px 30px;
+    text-decoration: none;
+    border: 1.5px solid;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+.signupbutton{
+    display: flex;
+    justify-content: center;
+    margin: 0;
+    background-color: #fff;
+    color: black; 
+    padding: 8px 10px;
+    text-decoration: none;
+    border: 1.5px solid;
+    border-radius: 5px;
+    transition: background 0.3s;
+}
+.signupbutton:hover {
+    background-color: black;
+    color: white;
+}
+
+.container4{
+    display: flex;
+    flex-direction: column;
+    color: black;
+    background: linear-gradient(135deg, #a0d8ef, #005b85); /* Lighter gradient */
+    padding: 13px 623px;
+}
+.quote{
+    display: flex;
+    white-space: nowrap;
+    padding: 50px 230px;
+    margin: 0;
+    background-color: rgb(235, 232, 232);
+    color: black;
+}
+.footer1{
+    display: flex;
+    margin-top: 0;
+    background-color: black;
+    color: white;
+    padding: 10px 616px;
+}
+
+.freebobux{
+    text-decoration: none;
+    color: black;
+}
